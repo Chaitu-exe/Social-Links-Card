@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: ([https://your-live-site-url.com](https://chaitu-exe.github.io/Social-Links-Card/))
+- Solution URL: [Github](https://github.com/Chaitu-exe/Social-Links-Card)
+- Live Site URL: ([Live url](https://chaitu-exe.github.io/Social-Links-Card/))
 
 ## My process
 
